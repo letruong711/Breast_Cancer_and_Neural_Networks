@@ -6,4 +6,5 @@ With the ongoing COVID-19 pandemic, the healthcare industry has been overwhelmed
 
 ### Background
 
-Breast cancer, like other cancers, is the mutation of, breast, tissue that rapidly grows. There are different types of breast cancer and are identified depending on where in the breast they are. It can spread to other parts of the body through blood vessels and lymph nodes.
+Breast cancer, like other cancers, is the mutation of, breast, tissue that rapidly grows. There are different types of breast cancer and are identified depending on where in the breast they are. It can spread to other parts of the body through blood vessels and lymph nodes. In order to confirm if a growth is cancerous, biopsies are needed.
+
